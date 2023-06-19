@@ -2,6 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/cupertino.dart';
 import 'package:http/http.dart' as http;
+import 'package:illahia_chat_bot/constant.dart';
 import '../models/message_model.dart';
 import '../utils/data.dart';
 
@@ -30,7 +31,7 @@ class ChatProvider extends ChangeNotifier {
     const header = {
       "Content-Type": "application/json",
       "Authorization":
-          "Bearer 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"
+          "Bearer ${APIKey.key}"
     };
     List<Map<String, dynamic>> conversation = [
       {

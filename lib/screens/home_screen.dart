@@ -51,6 +51,7 @@ class HomeScreen extends StatelessWidget {
         children: [
           const Expanded(child: MessagesList()),
           Container(
+            
             height: mediaQuery.height * .1,
             padding: EdgeInsets.symmetric(horizontal: mediaQuery.width * .01),
             child: Row(
