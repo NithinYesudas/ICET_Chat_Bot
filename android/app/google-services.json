@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "782588524793",
+    "project_id": "illahia-chat-bot",
+    "storage_bucket": "illahia-chat-bot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782588524793:android:42d0183223cc134362ca28",
+        "android_client_info": {
+          "package_name": "com.example.illahia_chat_bot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782588524793-32dp03hcgrtd603nupfl0ed4b2h5ih37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.illahia_chat_bot",
+            "certificate_hash": "a049257c11ea82f5f6f6960a7aabfbe6e6eb9c7a"
+          }
+        },
+        {
+          "client_id": "782588524793-krdag99hocm5uksqmdkepk3s6tpelskq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbnGZKCezWvkpUQu1zhEpK0gMjP_3qvrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782588524793-krdag99hocm5uksqmdkepk3s6tpelskq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
